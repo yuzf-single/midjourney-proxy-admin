@@ -44,7 +44,7 @@
 
 微信扫码获取，备注mj先行版
 
- <img src="https://raw.githubusercontent.com/yuzf-single/midjourney-proxy-admin/main/docs/contract.png" width="240" alt="微信二维码"/>
+ <img src="https://github.com/yuzf-single/midjourney-proxy-admin/blob/main/doc/contract.png?raw=true" width="240" alt="微信二维码"/>
 
 加入我们即可获得
 
