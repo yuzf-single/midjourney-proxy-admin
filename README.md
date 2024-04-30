@@ -44,7 +44,7 @@ adopts a brand new mode. It supports all MidJourney commands and related operati
 
 Obtain by scanning WeChat QR code, remark with ‘mj plus’.
 
- <img src="https://raw.githubusercontent.com/yuzf-single/midjourney-proxy-admin/main/docs/contract.png" width="240" alt="WeChat QR Code"/>
+ <img src="https://github.com/yuzf-single/midjourney-proxy-admin/blob/main/doc/contract.png?raw=true" width="240" alt="WeChat QR Code"/>
 
 Join us to receive
 
