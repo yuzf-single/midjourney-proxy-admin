@@ -49,7 +49,6 @@ Obtain by scanning WeChat QR code, remark with ‘mj plus’.
 Join us to receive
 
 - The latest version of midjourney-proxy
-- [The latest version of the WeChat bot](https://github.com/litter-coder/wechat-ai)
 - Timely maintenance with priority given to fixing issues as they arise
 - Your opinions and suggestions will be given priority consideration by us
 
