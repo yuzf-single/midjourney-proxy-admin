@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">midjourney-proxy-plus</h1>
+<h1 align="center">midjourney-proxy-admin</h1>
 
 English | [中文](./README_CN.md)
 
@@ -9,7 +9,7 @@ English | [中文](./README_CN.md)
 
 </div>
 
-The plus version of [midjourney-proxy](https://github.com/novicezk/midjourney-proxy) adopts a brand new mode. It supports all MidJourney commands and related operations, and accurately matches all submitted tasks.
+adopts a brand new mode. It supports all MidJourney commands and related operations, and accurately matches all submitted tasks.
 
 ## Open Source Version Features
 - [x] Supports Imagine instructions and related actions
@@ -44,11 +44,7 @@ The plus version of [midjourney-proxy](https://github.com/novicezk/midjourney-pr
 
 Obtain by scanning WeChat QR code, remark with ‘mj plus’.
 
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="WeChat QR Code"/>
-
-Telegram
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/telegram-qrcode.png" width="240" alt="Telegram QR Code"/>
+ <img src="https://raw.githubusercontent.com/yuzf-single/midjourney-proxy-admin/main/docs/contract.png" width="240" alt="WeChat QR Code"/>
 
 Join us to receive
 
@@ -58,7 +54,6 @@ Join us to receive
 - Your opinions and suggestions will be given priority consideration by us
 
 ## Application Project
-- [wechat-ai](https://github.com/litter-coder/wechat-ai) : A WeChat smart bot based on chatgpt-on-wechat and midjourney-proxy-plus
 - [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) : chatgpt web, midjourney, gpts,tts, whisper A complete UI solution
 - [new-api](https://github.com/Calcium-Ion/new-api) : An API interface management and distribution system compatible with the Midjourney Proxy (Plus)
 
@@ -68,5 +63,3 @@ Join us to receive
 
 ## Others
 If you find this project helpful, please consider giving it a star
-
-[![Star History Chart](https://api.star-history.com/svg?repos=litter-coder/midjourney-proxy-plus&type=Date)](https://star-history.com/#litter-coder/midjourney-proxy-plus&Date)
