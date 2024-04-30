@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">midjourney-proxy-plus</h1>
+<h1 align="center">midjourney-proxy-admin</h1>
 
 [English](./README.md) | 中文
 
@@ -9,7 +9,7 @@
 
 </div>
 
-[midjourney-proxy](https://github.com/novicezk/midjourney-proxy) 的plus版本，采用了全新模式。支持mj所有的指令和相关操作，精准匹配所有提交的任务。
+采用了全新模式。支持mj所有的指令和相关操作，精准匹配所有提交的任务。
 
 ## 开源版功能
 - [x] 支持 Imagine 指令和相关动作
@@ -44,29 +44,18 @@
 
 微信扫码获取，备注mj先行版
 
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="微信二维码"/>
-
-Telegram
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/telegram-qrcode.png" width="240" alt="Telegram二维码"/>
+ <img src="https://raw.githubusercontent.com/yuzf-single/midjourney-proxy-admin/main/docs/contract.png" width="240" alt="微信二维码"/>
 
 加入我们即可获得
 
-- midjourney-proxy的最新版本
-- [微信机器人最新版本](https://github.com/litter-coder/wechat-ai)
+- midjourney-proxy-admin的最新版本
 - 及时维护，出问题优先修复
 - 您的意见和建议会被我们重点采纳
 
 ## 应用项目
-- [wechat-ai](https://github.com/litter-coder/wechat-ai) : 基于 chatgpt-on-wechat 和 midjourney-proxy-plus 的微信智能机器人
 - [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) : chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定
 - [new-api](https://github.com/Calcium-Ion/new-api) : 接入Midjourney Proxy (Plus)的接口管理 & 分发系统
 
 ## 使用前提
 1. 注册并订阅 MidJourney，创建自己的频道，参考 https://docs.midjourney.com/docs/quick-start
 2. 获取用户Token、服务器ID、频道ID等：[获取方式](./docs/discord-params.md)
-
-## 其它
-如果觉得这个项目对您有所帮助，请帮忙点个star
-
-[![Star History Chart](https://api.star-history.com/svg?repos=litter-coder/midjourney-proxy-plus&type=Date)](https://star-history.com/#litter-coder/midjourney-proxy-plus&Date)
